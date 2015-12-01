@@ -1,0 +1,17 @@
+"Window": {
+	backgroundColor: "#900"
+}
+
+"Label": {
+	width: '100%',
+	height: '7%',
+	color: "#fff",
+	font: {
+		fontFamily: 'Helvetica Neue'
+	},
+	textAlign: 'center'
+}
+
+".container": {
+	backgroundColor: 'white'
+}
